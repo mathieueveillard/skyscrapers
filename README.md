@@ -262,4 +262,4 @@ Ran all test suites matching /\/Users\/mathieueveillard\/Dev\/repositories\/skys
 
 ## Misc.
 
-https://www.linkedin.com/posts/thomas-vuille_tdd-activity-7275971875300683779-6AgT?utm_source=share&utm_medium=member_desktop
+- https://developers.google.com/optimization?hl=fr
